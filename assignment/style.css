@@ -1,4 +1,5 @@
 /* Give your page a fun background color */
+body {background-color: skyblue;}
 
 /* Make the header and footer a different color from the background */
 
@@ -9,3 +10,30 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+.list {
+    
+    font-family: fantasy;
+    color: blueviolet;}
+
+.paragraph {
+    color:red;}
+
+.footer {
+    color:  red;}
+
+.header {
+    color: green;
+    text-align: center;}
+
+.img {
+    text-align: center;
+    
+    border: 3px solid red;
+}
+
+
+
+
+
+
+
