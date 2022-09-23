@@ -10,6 +10,12 @@ body {background-color: skyblue;}
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+<<<<<<< HEAD
+=======
+
+body {background-color: skyblue;}
+
+>>>>>>> 134dd74b3e571d98a5c4f64dcb64753c44f114c9
 .list {
     
     font-family: fantasy;
@@ -30,6 +36,7 @@ body {background-color: skyblue;}
     
     border: 3px solid red;
 }
+<<<<<<< HEAD
 
 
 
@@ -37,3 +44,5 @@ body {background-color: skyblue;}
 
 
 
+=======
+>>>>>>> 134dd74b3e571d98a5c4f64dcb64753c44f114c9
